@@ -2,6 +2,9 @@ This is a work in progress; better README to come soon. Meanwhile:
 
 **Untested hardware and software — Do not assume anything works!**
 
+This is a Kosmo format version of René Schmitz's YASH sample and hold synth module.
+
+The circuit is pretty much as Schmitz designed it. The only significant changes are the addition of an output jack for the clock signal and a switch to bypass the capacitor on the clock input. The latter turns the module from a sample and hold into a track and hold: applying a gate to the clock input causes the output to track the input voltage, and then when the gate turns off the last output voltage is held until the next gate.
 
 ## Current draw
  mA +12 V,  mA -12 V

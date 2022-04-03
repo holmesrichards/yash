@@ -1255,10 +1255,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60104076"
-     inkscape:cx="31.611833"
-     inkscape:cy="607.27994"
+     inkscape:cx="8.3189034"
+     inkscape:cy="657.19337"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer16"
      showgrid="false"
      units="in"
      inkscape:window-width="1581"
@@ -2537,7 +2537,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:none">
+     style="display:inline">
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007859,2.2480381 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -2968,18 +2968,18 @@
        width="1.968504"
        id="rect829-4"
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0104167"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.25521e-06;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.993004;-inkscape-stroke:hairline"
        x="2.9539857"
        y="9.7132683"
        id="text36721"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"><tspan
          sodipodi:role="line"
          id="tspan36719"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:3.25521e-06"
@@ -2991,18 +2991,18 @@
        id="path1048"
        d="M 1.9685037,2.3622049 H 3.9370076"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <path
        sodipodi:nodetypes="cc"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.9685037,9.4488192 H 3.9370076"
        id="path1050"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot3370"
@@ -3029,9 +3029,9 @@
        x="2.956696"
        y="2.232954"
        id="text3657"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"><tspan
          sodipodi:role="line"
          x="2.956696"
          y="2.232954"
@@ -3059,18 +3059,18 @@
        d="m 3.8976366,8.4251946 c -0.8464556,0 -1.4370067,2.6e-6 -1.889763,2.6e-6 l 1.1e-6,0.9842546 1.889762,-5.3e-6 z"
        id="path26899"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 2.4606307,8.8582706 c 0,0 0.4921262,-0.1968501 0.4921262,-0.1968501"
        id="path15343"
        inkscape:path-effect="#path-effect15345"
        inkscape:original-d="M 2.4606307,8.8582706 2.9527569,8.6614205"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4542,18 +4542,18 @@
        cx="2.4606309"
        cy="8.8582735"
        r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4606295"
        y="9.3307095"
        id="text2543"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"><tspan
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2541"
          x="2.4606295"
@@ -4565,27 +4565,27 @@
        cx="2.4606295"
        cy="7.8740163"
        r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3270"
        cx="3.4448814"
        cy="8.8582783"
        r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4448814"
        y="9.3307095"
        id="text2543-3"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"><tspan
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2541-6"
          x="3.4448814"
@@ -4597,9 +4597,9 @@
        x="2.4606299"
        y="8.3464565"
        id="text4106"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"><tspan
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan4104"
          x="2.4606299"
@@ -4611,23 +4611,14 @@
        x="3.4448819"
        y="8.3464565"
        id="text4110"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"><tspan
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan4108"
          x="3.4448819"
          y="8.3464565"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">SIGNAL IN</tspan></text>
-    <circle
-       r="0.17716536"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle11200"
-       cx="2.4606295"
-       cy="7.8740149"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
     <g
        id="g9106"
        transform="translate(-15,2.9527559)"
@@ -4671,9 +4662,9 @@
        cx="3.4448814"
        cy="7.8740263"
        r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png" />
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png" />
     <path
        style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
        d="m -9.9409448,7.0866052 c 0,0 0.1181103,0 0.1181103,0"
@@ -4740,18 +4731,18 @@
        id="circle9166"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <text
        id="text9170"
        y="4.5275598"
        x="2.9527566"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="4.5275598"
          x="2.9527566"
@@ -4763,9 +4754,9 @@
        id="circle10862"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <text
        id="text10866"
        y="6.8897643"
@@ -4783,18 +4774,18 @@
        id="circle15300"
        cx="2.9527559"
        cy="8.6627455"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <text
        id="text3838"
        y="6.4960632"
        x="2.9527559"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="6.4960632"
          x="2.9527559"
@@ -4807,18 +4798,18 @@
        cx="-6.8897591"
        cy="2.9483151"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:0.138889px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="2.7387202"
        y="6.8756666"
        id="text11281"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"><tspan
          sodipodi:role="line"
          id="tspan11279"
          style="text-align:end;text-anchor:end;stroke-width:0.01"
@@ -4835,9 +4826,9 @@
        x="3.1667912"
        y="6.8756666"
        id="text13381"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Schmitz/Sample and Hold/Kosmo version/Images/yash_panel_art.png"
+       inkscape:export-xdpi="999.99799"
+       inkscape:export-ydpi="999.99799"><tspan
          sodipodi:role="line"
          id="tspan13377"
          style="text-align:start;text-anchor:start;stroke-width:0.01"
