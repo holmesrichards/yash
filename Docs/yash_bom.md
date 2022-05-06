@@ -26,7 +26,7 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | Q1 | 1 | 2N3904 | Small Signal NPN Transistor, TO-92 | Tayda | A-111 |
 | R1 | 1 | 1k | 1/4 watt resistor, metal film | Tayda |  |
 | R2, R8 | 2 | 100k | 1/4 watt resistor, metal film | Tayda |  |
-| R3 | 1 | RL | 1/4 watt resistor, metal film | Tayda |  |
+| R3 | 1 | RL* | 1/4 watt resistor, metal film | Tayda |  |
 | R4 | 1 | 5.6k | 1/4 watt resistor, metal film | Tayda |  |
 | R5 | 1 | 4.7k | 1/4 watt resistor, metal film | Tayda |  |
 | R6 | 1 | 10k | 1/4 watt resistor, metal film | Tayda |  |
@@ -42,4 +42,5 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | | 1 | | 14 pin DIP socket | Tayda | A-004 |
 | | 2 | | knobs | | |
 
+\* Use value for suitable LED brightness, I used 2k with the BOM LED
     
