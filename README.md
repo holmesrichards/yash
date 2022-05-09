@@ -20,6 +20,7 @@ The circuit is pretty much as Schmitz designed it. The only significant changes 
 * PCB layout: [front](Docs/yash_layout_front.pdf), [back](Docs/yash_layout_back.pdf)
 * [BOM](Docs/yash_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2022/05/06/yet-another-sample-and-hold/)
 
 ## GitHub repository
 
